@@ -1,2 +1,2 @@
-# new-folder
+# New-folder
 the new folder
